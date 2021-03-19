@@ -6,6 +6,6 @@
   3) Clover Finance testnet validator https://apps.clover.finance/#/staking/query/5DqTCMpR25ivDmAJ3e4nRNQy2rktH88H5fBjdcsNdR1PoZbu
   4) Swarm Bee
   5) Hopr
-  ...Aioz, SpaceMesh and many other.
+  6) ...Aioz, SpaceMesh and many other.
   
 - 💞️ I’m looking to test your network too, its just a matter of time...
